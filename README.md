@@ -73,4 +73,3 @@ This demonstrates the model’s applicability in real-world clinical screening s
 
 ---
 
-## Project Structure
