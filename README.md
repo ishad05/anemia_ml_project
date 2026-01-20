@@ -72,4 +72,7 @@ A Streamlit-based web application is developed to allow real-time prediction. Us
 This demonstrates the model’s applicability in real-world clinical screening scenarios.
 
 ---
+## Deployment
+- Deployed web-application using streamlit 
+- Application link url: https://isha-anemiaprojectml.streamlit.app/
 
