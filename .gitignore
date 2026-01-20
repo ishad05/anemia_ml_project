@@ -8,9 +8,6 @@ __pycache__/
 env/
 venv/
 
-# Large model artifacts (optional later)
-*.pkl
-
 # Streamlit cache
 .streamlit/
 
