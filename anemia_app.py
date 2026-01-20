@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-clf = joblib.load("model/anemia_model.pkl")
+clf = joblib.load("anemia_model.pkl")
 
 st.set_page_config(page_title="Anemia Subtype Classifier", layout="centered")
 
